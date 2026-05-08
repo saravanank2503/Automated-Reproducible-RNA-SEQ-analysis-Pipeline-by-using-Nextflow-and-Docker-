@@ -236,3 +236,5 @@ Layer 3: R scripts  → statistical analysis (bin/*.R)
 - STAR runs with `maxForks = 1` —  this ensure at the time 1 sample only process for alignment, if your RAM is high you can do simultaneously alignment for samples
 ---
 *Automated-Reproducible Pipeline  — Nextflow + Docker + DESeq2 | GRCh38 / GENCODE v44*
+
+  
