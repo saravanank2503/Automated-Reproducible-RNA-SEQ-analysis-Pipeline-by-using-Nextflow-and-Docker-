@@ -1,0 +1,13 @@
+sample,fastq_1,fastq_2,condition,replicate,batch
+OCI_1,data/SRR37361515_1.fastq.gz,data/SRR37361515_2.fastq.gz,OCI_AML3,1,batch1
+OCI_2,data/SRR37361516_1.fastq.gz,data/SRR37361516_2.fastq.gz,OCI_AML3,2,batch1
+OCI_3,data/SRR37361517_1.fastq.gz,data/SRR37361517_2.fastq.gz,OCI_AML3,3,batch1
+THP1_1,data/SRR37361518_1.fastq.gz,data/SRR37361518_2.fastq.gz,THP1,1,batch1
+THP1_2,data/SRR37361519_1.fastq.gz,data/SRR37361519_2.fastq.gz,THP1,2,batch1
+THP1_3,data/SRR37361520_1.fastq.gz,data/SRR37361520_2.fastq.gz,THP1,3,batch1
+CART_1,data/SRR37361521_1.fastq.gz,data/SRR37361521_2.fastq.gz,CART,1,batch1
+CART_2,data/SRR37361522_1.fastq.gz,data/SRR37361522_2.fastq.gz,CART,2,batch1
+CART_3,data/SRR37361523_1.fastq.gz,data/SRR37361523_2.fastq.gz,CART,3,batch1
+CTRL_1,data/SRR37361524_1.fastq.gz,data/SRR37361524_2.fastq.gz,control,1,batch1
+CTRL_2,data/SRR37361525_1.fastq.gz,data/SRR37361525_2.fastq.gz,control,2,batch1
+CTRL_3,data/SRR37361526_1.fastq.gz,data/SRR37361526_2.fastq.gz,control,3,batch1
