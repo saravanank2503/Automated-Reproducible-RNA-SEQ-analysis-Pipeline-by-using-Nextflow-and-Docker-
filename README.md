@@ -15,7 +15,7 @@ Understanding which genes are turned on or off across conditions is central to m
 - **Clinical-grade reference** — uses GRCh38 / GENCODE v44, the current human genome standard
 - **Scalable design** — handles any number of samples and conditions with automatic pairwise comparisons
 
-This pipeline was validated on a **CAR-T cell immunotherapy dataset** (4 conditions × 3 replicates), comparing OCI-AML3, THP-1, CAR-T, and control samples to identify transcriptomic signatures relevant to anti-tumor response.
+This pipeline was validated on a **CAR-T cell immunotherapy dataset(GEO Accession no GSE320438)** (4 conditions × 3 replicates), comparing OCI-AML3, THP-1, CAR-T, and control samples to identify transcriptomic signatures relevant to anti-tumor response.
 
 ---
 
